@@ -12,3 +12,7 @@ class sum
 // this one is going to change
 // this is second change
 // added some comments
+void change()
+{
+    int x=2;
+}
