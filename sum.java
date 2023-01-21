@@ -14,6 +14,6 @@ class sum
 // added some comments
 void change()
 {
-    int x=2;
+    int x=10;
     int y=3;
 }
