@@ -16,4 +16,5 @@ void change()
 {
     int x=10;
     int y=3;
+    System.out.println(sum);
 }
