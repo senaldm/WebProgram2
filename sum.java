@@ -14,7 +14,7 @@ class sum
 // added some comments
 void change()
 {
-    int x=10;
+    int x=2;
     int y=3;
-    System.out.println(sum);
+    // System.out.println(sum);
 }
